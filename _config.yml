@@ -5,7 +5,7 @@ name: "zearom32"
 markdown: rdiscount
 
 author: "zearom32"
-atom-baseurl: ""
+atom-baseurl: "http://zearom32.github.io/"
 disqus: "gopherwood"
 
 navigations:
