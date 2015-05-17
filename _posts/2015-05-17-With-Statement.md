@@ -1,7 +1,7 @@
 ---
 title: With Statement
 layout: post
-
+tags: [Python,Pythonic]
 ---
 
 # motivation

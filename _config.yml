@@ -6,7 +6,7 @@ markdown: rdiscount
 
 author: "zearom32"
 atom-baseurl: "http://zearom32.github.io/"
-disqus: "gopherwood"
+disqus: "zearom32"
 
 navigations:
   - title: Archive
