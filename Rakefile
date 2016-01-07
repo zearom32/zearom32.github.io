@@ -1,3 +1,5 @@
+require 'securerandom'
+
 task :default => :generate
 
 desc 'Create new post with rake "post[post-name]"'
@@ -45,7 +47,7 @@ def new_post(title)
     puts "Post already exists: #{filename}"
     return
   end
-  uuid = `uuidgen | tr "[:upper:]" "[:lower:]" | tr -d "\n"`
+  uuid = SecureRandom.uuid
   File.open(filename, "wb") do |f|
     f << <<-EOS
 ---
@@ -58,7 +60,8 @@ tags:
 
 
 EOS
-  %x[echo "#{filename}" | pbcopy]
+# use clip on Windows
+  %x[echo "#{filename}" | clip]
   end
   puts "created #{filename}"
   `git add #{filename}`

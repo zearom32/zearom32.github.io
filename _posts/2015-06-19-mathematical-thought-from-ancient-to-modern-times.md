@@ -1,6 +1,7 @@
 ---
 title: 古今数学思想
 layout: post
+guid: urn:uuid:33df4471-dda8-4d27-812f-a6377f10b51a
 tags: [life,course,]
 ---
 古今数学思想是由数院的范后宏老师开的一门A类通选课。	

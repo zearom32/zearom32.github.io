@@ -1,6 +1,7 @@
 ---
 title: With Statement
 layout: post
+guid: urn:uuid:9ce9c79e-da9f-4d44-a341-7d86318239e7
 tags: [Python,Pythonic]
 ---
 
