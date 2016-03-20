@@ -23,7 +23,7 @@ layout: default
  
     </section>
     <section class="post">
-    {{ post.content }}
+    {{ post.excerpt}}
     </section>
     </article>
   {% endfor %}
