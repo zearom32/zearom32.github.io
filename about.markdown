@@ -3,16 +3,10 @@ title: about
 layout: page
 ---
 
+<br />
 
->  @帝都 | C++ | Python | exOIer | exMOer | 中国語 | Japanese | 英语 | INTJ
+>  @PKU | C++ | Python | Scala | Matlab | ~~Ruby~~ | ~~Pascal~~ |~~exOIer~~ | ~~exMOer~~ | 中国語 | ~~Japanese~~ | 英语 | INTJ | tennis
 
-
-> 
-
-mail 
+<br />
 
 > emVhcm9tMzJAZ21haWwuY29t
-
-interest
-
-> not declared

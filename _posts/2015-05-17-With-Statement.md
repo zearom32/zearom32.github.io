@@ -18,7 +18,7 @@ tags: [Python,Pythonic]
 	except:
 	    print("error")
 
-
+<!--more-->
 这样做显然一点也不Pythonic，正确的做法是使用`with`
 
 	with open("example") as f:
